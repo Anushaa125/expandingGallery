@@ -22,39 +22,39 @@
     height: 500px;
     margin: 10px;
     border-radius:50px;
-    background: url(images/jerry.jpg);
+    background: url(jerry.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
     transition: width 0.5s;
 }
 .img-box:nth-child(2) {
-    background: url(images/tom.jpg);
+    background: url(tom.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(3) {
-    background: url(images/oggy.jpg);
+    background: url(oggy.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(4) {
-    background: url(images/Bhim.png);
+    background: url(Bhim.png);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(5) {
-    background: url(images/Kalia.jpg);
+    background: url(Kalia.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(6) {
-    background: url(images/Jaggu.jpg);
+    background: url(Jaggu.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(7) {
-    background: url(images/Ben10.jpg);
+    background: url(Ben10.jpg);
     background-size: cover;
     background-position: center;
 }
